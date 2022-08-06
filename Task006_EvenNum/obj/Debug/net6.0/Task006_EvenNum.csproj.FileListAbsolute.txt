@@ -1,0 +1,15 @@
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\Task006_EvenNum.csproj.AssemblyReference.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\Task006_EvenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\Task006_EvenNum.AssemblyInfoInputs.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\Task006_EvenNum.AssemblyInfo.cs
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\Task006_EvenNum.csproj.CoreCompileInputs.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\bin\Debug\net6.0\Task006_EvenNum.exe
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\bin\Debug\net6.0\Task006_EvenNum.deps.json
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\bin\Debug\net6.0\Task006_EvenNum.runtimeconfig.json
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\bin\Debug\net6.0\Task006_EvenNum.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\bin\Debug\net6.0\Task006_EvenNum.pdb
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\Task006_EvenNum.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\refint\Task006_EvenNum.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\Task006_EvenNum.pdb
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\Task006_EvenNum.genruntimeconfig.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task006_EvenNum\obj\Debug\net6.0\ref\Task006_EvenNum.dll
