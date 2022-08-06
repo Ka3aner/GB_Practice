@@ -1,0 +1,15 @@
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\Task004_MaxFor3.csproj.AssemblyReference.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\Task004_MaxFor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\Task004_MaxFor3.AssemblyInfoInputs.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\Task004_MaxFor3.AssemblyInfo.cs
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\Task004_MaxFor3.csproj.CoreCompileInputs.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\bin\Debug\net6.0\Task004_MaxFor3.exe
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\bin\Debug\net6.0\Task004_MaxFor3.deps.json
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\bin\Debug\net6.0\Task004_MaxFor3.runtimeconfig.json
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\bin\Debug\net6.0\Task004_MaxFor3.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\bin\Debug\net6.0\Task004_MaxFor3.pdb
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\Task004_MaxFor3.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\refint\Task004_MaxFor3.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\Task004_MaxFor3.pdb
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\Task004_MaxFor3.genruntimeconfig.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task004_MaxFor3\obj\Debug\net6.0\ref\Task004_MaxFor3.dll
