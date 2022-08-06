@@ -1,0 +1,15 @@
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\bin\Debug\net6.0\Task008_allEventoN.exe
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\bin\Debug\net6.0\Task008_allEventoN.deps.json
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\bin\Debug\net6.0\Task008_allEventoN.runtimeconfig.json
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\bin\Debug\net6.0\Task008_allEventoN.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\bin\Debug\net6.0\Task008_allEventoN.pdb
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\Task008_allEventoN.csproj.AssemblyReference.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\Task008_allEventoN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\Task008_allEventoN.AssemblyInfoInputs.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\Task008_allEventoN.AssemblyInfo.cs
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\Task008_allEventoN.csproj.CoreCompileInputs.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\Task008_allEventoN.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\refint\Task008_allEventoN.dll
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\Task008_allEventoN.pdb
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\Task008_allEventoN.genruntimeconfig.cache
+C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\1 четверть\3. Знакомство с языками программирования\Семинары\Семинар 1\ДЗ\Task008_allEventoN\obj\Debug\net6.0\ref\Task008_allEventoN.dll
