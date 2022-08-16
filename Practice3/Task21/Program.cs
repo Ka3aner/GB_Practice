@@ -14,9 +14,8 @@ int GetInt(string message)
     else
     {
         Console.WriteLine("Введено не целое число, повторите ввод");
-        GetInt(message);
+        return GetInt(message);
     }
-    return 0;
 }
 
 double Get3Dlength(int x1, int y1, int z1, int x2, int y2, int z2)
