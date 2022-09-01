@@ -15,9 +15,6 @@ int GetInt(string message)
     return number;
 }
 
-int m = GetInt("Введите первое число ряда");
-int n = GetInt("Введите последнее число ряда");
-
 void IntBetweenMAndN(int m, int n)
 {
     if (m < n)
@@ -41,5 +38,9 @@ void IntBetweenMAndN(int m, int n)
         IntBetweenMAndN(m - 1, n);
     }
 }
+
+int m = GetInt("Введите первое число ряда");
+int n = GetInt("Введите последнее число ряда");
+
 Console.Write("Получившийся ряд: [");
 IntBetweenMAndN(m, n);
